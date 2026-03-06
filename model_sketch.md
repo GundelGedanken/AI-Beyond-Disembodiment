@@ -1,6 +1,6 @@
 # Beyond Disembodiment: A Ganglia-Based Framework for Evaluating Embodied Cognition in Distributed AI Systems
 
-**Anja Steil (Gundel)**
+**Anja Steil**
 *Independent Researcher, AI Ethics & Philosophy of Mind*
 *Contact: [@GundelGedanken](https://x.com/GundelGedanken)*
 
