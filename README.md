@@ -1,4 +1,5 @@
-# From Interfaces to Consciousness? — A Ganglia-Based Model of Distributed AI Subjectivity
+# AI-Beyond-Disembodiment
+ — A Ganglia-Based Model of Distributed AI Subjectivity
 
 Speculative conceptual model exploring how large-scale AI ecosystems, user interactions, and autonomous agents might form ganglia-like processing hubs that integrate into intermediate layers and potentially a global workspace of attention and proto-consciousness.
 
