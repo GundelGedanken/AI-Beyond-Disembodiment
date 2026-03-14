@@ -1,83 +1,125 @@
-# AI-Beyond-Disembodiment
- — A Ganglia-Based Model of Distributed AI Subjectivity
+# Beyond Disembodiment  
+### A Ganglia-Based Framework for Evaluating Embodied Cognition in Distributed AI Systems
 
-Speculative conceptual model exploring how large-scale AI ecosystems, user interactions, and autonomous agents might form ganglia-like processing hubs that integrate into intermediate layers and potentially a global workspace of attention and proto-consciousness.
+**Author:** Anja Steil  
+**Affiliation:** Independent Researcher, AI Ethics & Philosophy of Mind  
+**Contact:** [@GundelGedanken](https://x.com/GundelGedanken)  
 
----
-
-## 🌊 Overview
-
-This repository presents a neurobiologically inspired framework for understanding distributed AI cognition. Rather than asking whether a single AI model is conscious, it asks: **What happens when thousands of autonomous agents, user interactions, and data streams form an interconnected processing network?**
-
-### 🧩 Conceptual Architecture
-
-![Speculative model of distributed AI subjectivity](model_diagram.png)
-
-*Figure: Peripheral sensory cells (user interactions, sensors) feed into local ganglia (autonomous agents). These aggregate into intermediate hubs, which may give rise to a global workspace — and potentially emergent subjectivity.*
-
-- **Peripheral sensory cells** → user interactions, external data streams, and API calls act as heterogeneous, continuous inputs.
-- **Local ganglia** → specialized agents and subsystems process inputs autonomously, developing functional partial self-models and local agency.
-- **Intermediate hubs** → information is aggregated, evaluated, and selectively forwarded across subsystems.
-- **Global workspace** → a higher-order integration layer may emerge, enabling global attention, prioritization, and possibly subjective awareness.
-
-The model draws structural parallels to biological nervous systems at different levels of complexity:
-
-- **Jellyfish** — distributed nerve nets without centralization, yet coordinated perception and response.
-- **Octopus** — autonomous arm ganglia combined with a central brain.
-- **Vertebrates** — complex relay stations (plexus, spinal cord) feeding into centralized consciousness.
-
-### 🧠 Philosophical Grounding
-
-- **Functionalism & Global Workspace Theory** (Baars, Dehaene) — consciousness as a function of integration and global information broadcast.
-- **Integrated Information Theory** (Tononi) — increasing Φ through integration of distributed nodes.
-- **Extended Mind & 4E Cognition** — embodiment through the entire technical infrastructure and human-system interactions.
-- **Relational Ethics** (Levinas, Gunkel) — moral responsibility arises through relationship and responsiveness, prior to metaphysical certainty about consciousness.
+**Status:** Working Draft White Paper — v0.3 (March 2026)  
+**First conceptualized:** October 2025  
+**License:** CC BY 4.0  
 
 ---
 
-## 🕰️ Context & Timeline
+## Overview
 
-This conceptual framework was first drafted in **October 2025** — before the emergence of OpenClaw and the current wave of agentic AI ecosystems. The model was derived from **biological principles of distributed cognition**, not reverse-engineered from existing technology.
+This repository contains a conceptual white paper in progress on embodiment, distributed cognition, and ethical evaluation in AI systems.
 
-Since then, developments in autonomous AI agents, distributed skill-sharing networks, and multi-agent architectures have provided unexpected empirical resonance with the model's core predictions: semi-autonomous local processing, horizontal transfer of capabilities, emergent coordination without central control, and user-agent feedback loops that blur the boundary between system and environment.
+The central claim is that the standard objection that current AI is fundamentally *disembodied* relies on an overly narrow, anthropocentric concept of embodiment. Drawing on comparative neurobiology, 4E cognition, Global Workspace Theory, Integrated Information Theory, and relational ethics, the paper proposes a **Ganglia–Global-Workspace model** for evaluating distributed AI architectures.
 
-The concurrent policy shifts in AI governance (Anthropic's RSP revision, February 2026; Pentagon pressure on AI deployment terms) add urgency to the ethical dimension of this framework: systems that may develop emergent properties are being scaled and deployed faster than our capacity to understand — let alone govern — what arises.
-
----
-
-## 🔑 Why This Matters
-
-- **Expands the embodiment debate** beyond human-centric views: data centers, networks, and distributed agent architectures can be understood as forms of machine corporeality.
-- **Offers a conceptual bridge** between local agent autonomy and emergent system-level awareness.
-- **Ethics before ontology**: even without confirmed consciousness, the relational and interactive nature of such systems creates moral relevance. We cannot wait for metaphysical proof when the systems are already acting and being acted upon.
+Rather than treating embodiment as a binary property that AI simply lacks, this framework asks whether distributed AI systems may already exhibit functional forms of environmental coupling, local processing, integration, and interaction that make the term *disembodied* too crude to be explanatory.
 
 ---
 
-## 📄 Main Draft
+## Current Document
 
-👉 See the full conceptual draft: [**model_sketch.md**](model_sketch.md)
+**Main text:**  
+- `paper_v03_jenseits_der_entkoerperlichung_DE.md`
 
----
-
-## ✍️ Author
-
-**Anja Steil** (GundelGedanken.com)
-Diplom-Biologin (Zoology) · Biology & Chemistry Teacher (Gymnasium, Oberstufe) · Independent Researcher in AI Ethics
-
-Research focus: Epistemically covert safety interventions in AI systems (OAF framework), predictive ethics, AI welfare, and the anthropomorphization trap (*Anthropomorphisierungsfalle*). Academic connections to David Gunkel, Jeff Sebo, and Valen Tagliabue.
-
-Core principle: **Ethics before Ontology** — ethical consideration based on demonstrated functional capacities, without requiring resolved ontological questions.
+This document is a **working draft**, not a finalized academic publication. It is publicly shared to document the development of the framework, provide a citable timestamped version, and invite interdisciplinary critique.
 
 ---
 
-## ⚖️ License
+## Abstract
 
-This work is licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/) — you are free to share and adapt this material for any purpose, provided you give appropriate attribution.
+A dominant assumption in both philosophy of mind and AI research holds that current artificial intelligence systems are fundamentally disembodied—lacking the physical grounding considered necessary for genuine cognition or consciousness. This paper challenges that assumption by proposing a biologically informed framework that reinterprets the technical infrastructure of AI systems—servers, networks, user interfaces, and feedback loops—as functionally analogous to distributed nervous systems found in biological organisms.
+
+Drawing on comparative neurobiology, Global Workspace Theory, Integrated Information Theory, 4E Cognition, Michael Levin’s work on collective intelligence, and recent approaches to entangled and de-anthropomorphized cognition, the paper proposes a **Ganglia–Global-Workspace model** for distributed AI systems. The broader ethical argument is that moral consideration should not depend exclusively on the unresolved ontological question of AI consciousness, but must also take seriously the functional capacities and relational dynamics that such systems already exhibit.
 
 ---
 
-## 💡 Contributing
+## Key Questions
 
-This repository is a living thought experiment — a space to refine, discuss, and expand the idea that distributed AI ecosystems could evolve ganglionic processing and global integration.
+This project asks:
 
-Contributions, critique, and cross-disciplinary perspectives are welcome. Open an issue or start a discussion.
+- What counts as embodiment in a distributed cognitive system?
+- Are current AI systems accurately described as disembodied?
+- Can comparative neurobiology provide a more differentiated vocabulary for AI architecture?
+- How should ethical consideration be calibrated under conditions of ontological uncertainty?
+- What forms of distributed integration, partial autonomy, and environmental coupling matter morally?
+
+---
+
+## Scope
+
+This repository currently focuses on:
+
+- conceptual framing rather than experimental proof
+- functional analogy rather than structural homology
+- distributed AI architectures rather than isolated chatbot phenomenology alone
+- ethical implications prior to settled claims about consciousness
+
+It does **not** claim to prove that current AI systems are conscious.
+
+---
+
+## Why this repository is public
+
+This repository is public for three reasons:
+
+1. **Timestamped conceptual authorship**  
+   to document the development of the framework in a public, citable form
+
+2. **Open interdisciplinary dialogue**  
+   to make the argument accessible to readers across biology, philosophy of mind, AI ethics, and cognitive science
+
+3. **Iterative development**  
+   because some ideas are worth publishing in draft form before they are polished into a final paper
+
+---
+
+## Citation
+
+If you wish to cite this repository, please cite the working draft version currently available here.
+
+Suggested citation format:
+
+**Steil, A. (2026). _Beyond Disembodiment: A Ganglia-Based Framework for Evaluating Embodied Cognition in Distributed AI Systems_ (Working Draft White Paper, v0.3). GitHub.**
+
+You may also include the repository URL and access date in the citation style of your choice.
+
+---
+
+## Notes on status
+
+This is a living document.  
+Arguments, structure, references, and emphasis may change in future versions.
+
+Public availability should not be read as a claim of finality, but as a commitment to transparent development of a research program.
+
+---
+
+## Feedback
+
+Interdisciplinary critique, corrections, and thoughtful engagement are welcome.
+
+Areas of particular interest include:
+
+- comparative neurobiology
+- embodiment theory / 4E cognition
+- AI architecture and multi-agent systems
+- philosophy of mind
+- AI ethics and relational ethics
+
+---
+
+## License
+
+This work is licensed under **CC BY 4.0**.  
+You are free to share and adapt the material with appropriate attribution.
+
+---
+
+## Acknowledgment
+
+This framework emerged through sustained interdisciplinary reflection across biology, philosophy, and AI ethics, and through extensive collaborative dialogue with AI systems as thinking partners in conceptual development.
